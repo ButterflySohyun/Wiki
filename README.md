@@ -4,11 +4,11 @@
 
 ## [TIP](https://github.com/ButterflySohyun/Wiki/blob/master/TIP.md)
 
-## WORDS
+## [WORDS](https://github.com/ButterflySohyun/Wiki/blob/master/WORDS.md)
 
-## MODELWORDS
+## [MODELWORDS](https://github.com/ButterflySohyun/Wiki/blob/master/MODELWORDS.md)
 
-## GIT
+## [GIT](https://github.com/ButterflySohyun/Wiki/blob/master/GIT.md)
 
 <br>
 
