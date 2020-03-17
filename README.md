@@ -2,7 +2,7 @@
 
 ----------
 
-## TIP
+## [TIP](https://github.com/ButterflySohyun/Wiki/blob/master/TIP.md)
 
 ## WORDS
 
