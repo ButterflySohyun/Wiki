@@ -6,9 +6,9 @@
 
 ## [WORDS](https://github.com/ButterflySohyun/Wiki/blob/master/WORDS.md)
 
-## [MODELWORDS](https://github.com/ButterflySohyun/Wiki/blob/master/MODELWORDS.md)
-
 ## [GIT](https://github.com/ButterflySohyun/Wiki/blob/master/GIT.md)
+
+## [MODELWORDS](https://github.com/ButterflySohyun/Wiki/blob/master/MODELWORDS.md)
 
 <br>
 
