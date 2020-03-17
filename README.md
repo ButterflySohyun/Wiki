@@ -13,4 +13,4 @@
 <br>
 
 ## 1년동안 배운것, 앞으로 배울것
-![mindmap](https://github.com/ButterflySohyun/ButterflySohyun.github.io/blob/master/assets/mindmap.png)
+![mindmap](https://user-images.githubusercontent.com/52911032/76824445-71929a80-685a-11ea-9712-a1021fd76b36.png)
