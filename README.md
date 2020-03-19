@@ -10,6 +10,8 @@
 
 ## [MODELWORDS](https://github.com/ButterflySohyun/Wiki/blob/master/MODELWORDS.md)
 
+## [jspbbs](https://github.com/ButterflySohyun/Wiki/blob/master/jspbbs.md)
+
 <br>
 
 ## 1년동안 배운것, 앞으로 배울것
